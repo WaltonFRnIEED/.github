@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Walton FRnIEED 👋
+This GitHub organization contains the codebases of the Electrical and Electronics Design (EED) team from Walton Refrigerator R & I.
 <!--
 
 **Here are some ideas to get you started:**
